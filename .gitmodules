@@ -1,0 +1,3 @@
+[submodule "ethan"]
+	path = ethan
+	url = https://github.com/sherbondy/ethan.git
